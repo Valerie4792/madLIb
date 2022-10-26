@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/bin/Debug/net6.0/madLIb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/bin/Debug/net6.0/madLIb.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/bin/Debug/net6.0/madLIb.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/bin/Debug/net6.0/madLIb.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/bin/Debug/net6.0/madLIb.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/refint/madLIb.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/madLIb.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/madLib/madLIb/obj/Debug/net6.0/ref/madLIb.dll
