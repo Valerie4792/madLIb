@@ -1,4 +1,10 @@
-﻿string name1 = "";
+﻿//Michelle reviewed on 10/25
+//It works! Very nice Val :)
+
+
+
+
+string name1 = "";
 int age = 0;
 string favorite = "";
 string worstFood = "";
